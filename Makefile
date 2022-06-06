@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyroute2.ipset
-URL = https://files.pythonhosted.org/packages/54/22/71871c8c893fef7782252b810c9aceab0ad89183de71c027b759e0c14043/pyroute2.ipset-0.6.10.tar.gz
+URL = https://files.pythonhosted.org/packages/eb/f4/d67db31eab8e6be48e26dec18d2b8d0180b85cfdd213aa9be12163d5a6cf/pyroute2.ipset-0.6.11.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
